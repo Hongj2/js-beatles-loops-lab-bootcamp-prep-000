@@ -19,7 +19,7 @@ function johnLennonFacts(facts){
 
 function iLoveTheBeatles (num){
  var array = []
-  var i = 0
+  var i = num
   function incrementVariable(){
     i = i + 1;
     return i
